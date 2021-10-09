@@ -10,8 +10,8 @@ android {
     applicationId "com.raywenderlich.android.icgen.rwquotes"
     minSdkVersion rootProject.ext.minSdkVersion
     targetSdkVersion rootProject.ext.targetSdkVersion
-    versionCode 9
-    versionName "1.1"
+    versionCode 10
+    versionName "1.10"
     testInstrumentationRunner "androidx.test.runner.AndroidJUnitRunner"
 
     javaCompileOptions {
